@@ -1,0 +1,2 @@
+# ubuntu-setup
+I FUCKING HATE SETTING UP UBUNTU
